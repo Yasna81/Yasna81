@@ -1,7 +1,7 @@
 ## Hi There I'm Yasna Reihani 👋🌠
 
 
- I'm an Aspiring Bioinformation interested in Transcriptomics and computational biology.
+ I'm an aspiring Bioinformatician with a background in biology and a growing passion for computational methods.
 
 ### 🔬 Research Interests:
 
