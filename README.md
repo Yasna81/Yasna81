@@ -1,4 +1,4 @@
-## Hi There I'm Yasna Reihani 👋🌠
+## Hi There, I'm Yasna Reihani 👋🌠
 
 
  I'm an aspiring Bioinformatician with a background in biology and a growing passion for computational methods.
@@ -6,7 +6,8 @@
 ### 🔬 Research Interests:
 
 
-- RNA-seq (bulk & single cell), GSEA and functional pathway analysis
+- RNA-seq (bulk & single cell), GSEA, and functional pathway analysis
+- Spatial transcriptomics
 - ML-based transcriptomic analysis 
 - Developing tools for integrative omics data visualization
 
